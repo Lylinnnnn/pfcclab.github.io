@@ -40,7 +40,7 @@
 `_siderbar.md`中的基础内容如下(以「PFCC导师-Ligoml」为参考, 添加后请修改到对应的目录下):
 
 ```markdown
--   [README](docs/PFCC导师/Ligoml/README.md)
+-   [README](docs/PFCC导师/Ligoml/故事合集/README.md)
 -   故事合集
     -   [Ligoml](docs/PFCC导师/Ligoml/故事合集/story.md)
 ```

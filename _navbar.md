@@ -3,6 +3,6 @@
 -   [PFCC学员](docs/PFCC学员/README.md)
     -   [Lylinnnnn](docs/PFCC学员/Lylinnnnn/README.md)
 -   [PFCC导师](docs/PFCC导师/README.md)
-    -   [Ligoml](docs/PFCC导师/Ligoml/README.md)
+    -   [Ligoml](docs/PFCC导师/Ligoml/故事合集/README.md)
 -   [外部成员故事](docs/外部成员故事/README.md)
 -   [团队故事合集](docs/团队故事合集/README.md)
